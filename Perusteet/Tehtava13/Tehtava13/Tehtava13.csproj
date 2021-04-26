@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\VisualStudioProjektit\Tehtava14\Tehtava14.cs" Link="Tehtava14.cs" />
+  </ItemGroup>
+
+</Project>
